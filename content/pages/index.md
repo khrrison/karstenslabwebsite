@@ -151,7 +151,6 @@ sections:
         textAlign: center
         fontWeight: 400
   - posts:
-      - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
       - content/pages/blog/microshades-featured-by-asm-journal.md
     showThumbnail: true
