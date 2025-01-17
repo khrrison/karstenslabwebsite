@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Microbiome Bioinformatics
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      The Karstens Lab is an interdisciplinary group at Oregon Health & Science
+      University in the Department of Medical Informatics, Division of
+      Bioinformatics and Computational Biomedicine. We study the human
+      microbiome and its relationship to health and disease using
+      high-throughput sequencing and analytical chemistry approaches. We
+      specialize in the urinary microbiome and other low microbial biomass
+      niches, but also have projects involving the gut microbiome.
     actions:
       - label: Oregon Health & Sciences University
         altText: ''
