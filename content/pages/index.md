@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Oregon Health & Sciences University
         altText: ''
-        url: /
+        url: '/https://www.ohsu.edu/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
