@@ -44,28 +44,13 @@ sections:
     subtitle: We specialize in the following
     items:
       - type: FeaturedItem
-        title: Microbiome Research
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: R
+        title: Microbiome Analysis
         tagline: ''
         subtitle: ''
         text: ''
         image:
           type: ImageBlock
+          url: /images/microbiome.svg
           altText: Placeholder text
           styles:
             self:
@@ -80,7 +65,53 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col-reverse
+            flexDirection: row
+      - type: FeaturedItem
+        title: R Software
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/R_logo.svg.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Data Analysis
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/generated-svg-image.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
       - type: FeaturedItem
         title: Bioinformatics
         tagline: ''
@@ -88,6 +119,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
+          url: /images/bioinformatic.svg
           altText: Placeholder text
           styles:
             self:
@@ -102,29 +134,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: Data Anlaysis
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
+            flexDirection: row
     actions: []
     elementId: ''
     variant: three-col-grid
@@ -141,9 +151,7 @@ sections:
         textAlign: center
         fontWeight: 400
   - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/microshades-featured-by-asm-journal.md
     showThumbnail: true
     showDate: true
     showAuthor: true
@@ -159,6 +167,11 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: Posts
+      color: text-dark
+    subtitle: Lab news and updates
   - title: Divider
     colors: bg-light-fg-dark
     styles:
