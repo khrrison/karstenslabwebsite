@@ -19,5 +19,16 @@
         }
     },
     "type": "Person",
-    "bio": "We are excited to share the [“microshades: An R package for improving color accessibility and organization of microbiome data”](https://journals.asm.org/doi/10.1128/MRA.00795-22) has been included into the [Diversity, Equity, and Inclusion Collection](https://journals.asm.org/dei-collection) of the American Society for Microbiology Journal.\n"
+    "bio": "We are excited to share the [“microshades: An R package for improving color accessibility and organization of microbiome data”](https://journals.asm.org/doi/10.1128/MRA.00795-22) has been included into the [Diversity, Equity, and Inclusion Collection](https://journals.asm.org/dei-collection) of the American Society for Microbiology Journal.\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/hero2.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }
