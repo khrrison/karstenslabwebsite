@@ -35,7 +35,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Skills
+      text: SKILLS
       color: text-dark
       styles:
         self:
