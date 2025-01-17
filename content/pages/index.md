@@ -35,6 +35,7 @@ sections:
           - pr-16
   - posts:
       - content/pages/blog/microshades-featured-by-asm-journal.md
+      - content/pages/blog/karstens-lab-at-2023-augs-pfd.md
     showThumbnail: true
     showDate: true
     showAuthor: true
