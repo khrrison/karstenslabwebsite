@@ -16,16 +16,7 @@ sections:
       high-throughput sequencing and analytical chemistry approaches. We
       specialize in the urinary microbiome and other low microbial biomass
       niches, but also have projects involving the gut microbiome.
-    actions:
-      - label: Oregon Health & Sciences University
-        altText: ''
-        url: '/https://www.ohsu.edu/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
