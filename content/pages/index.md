@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Microbiome Bioinformatics
     text: >
-      The Karstens Lab is an interdisciplinary group at Oregon Health & Science
-      University in the Department of Medical Informatics, Division of
-      Bioinformatics and Computational Biomedicine. We study the human
-      microbiome and its relationship to health and disease using
+      The Karstens Lab is an interdisciplinary group at [Oregon Health & Science
+      University](www.ohsu.edu) in the Department of Medical Informatics,
+      Division of Bioinformatics and Computational Biomedicine. We study the
+      human microbiome and its relationship to health and disease using
       high-throughput sequencing and analytical chemistry approaches. We
       specialize in the urinary microbiome and other low microbial biomass
       niches, but also have projects involving the gut microbiome.
