@@ -7,7 +7,7 @@ sections:
       text: Karstens Lab
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Microbiome Bioinformatics,\_Oregon Health & Science University"
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
