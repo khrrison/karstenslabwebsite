@@ -44,7 +44,7 @@ sections:
     subtitle: We specialize in the following
     items:
       - type: FeaturedItem
-        title: ''
+        title: Microbiome Research
         tagline: ''
         subtitle: ''
         text: ''
