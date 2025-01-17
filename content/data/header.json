@@ -30,47 +30,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "SubNav",
-            "label": "",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Publications",
-                    "altText": "",
-                    "url": "/Publications",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
