@@ -90,7 +90,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Microbiome Research
+        title: Bioinformatics
         tagline: ''
         subtitle: ''
         text: ''
