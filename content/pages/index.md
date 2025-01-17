@@ -172,6 +172,7 @@ sections:
       text: Posts
       color: text-dark
     subtitle: Lab news and updates
+    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
