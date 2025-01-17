@@ -173,7 +173,7 @@ sections:
       type: TitleBlock
       text: Projects
       color: text-dark
-    subtitle: All Things Are Difficult Before They Are Easy
+    subtitle: All things are difficult before they are easy
   - title: Divider
     colors: bg-light-fg-dark
     styles:
