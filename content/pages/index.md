@@ -171,7 +171,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Projects
+      text: Posts
       color: text-dark
     subtitle: All things are difficult before they are easy
   - title: Divider
