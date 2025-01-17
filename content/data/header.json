@@ -40,7 +40,7 @@
                     "type": "Link",
                     "label": "Publications",
                     "altText": "",
-                    "url": "/",
+                    "url": "/Publications",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
