@@ -67,7 +67,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: R
+        title: R Software
         tagline: ''
         subtitle: ''
         text: ''
