@@ -152,6 +152,7 @@ sections:
         fontWeight: 400
   - posts:
       - content/pages/blog/microshades-featured-by-asm-journal.md
+      - content/pages/blog/karstens-lab-at-2023-augs-pfd-week.md
     showThumbnail: true
     showDate: true
     showAuthor: true
