@@ -44,22 +44,6 @@ sections:
     subtitle: We specialize in the following
     items:
       - type: FeaturedItem
-        title: Microbiome Research
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
         title: R
         tagline: ''
         subtitle: ''
