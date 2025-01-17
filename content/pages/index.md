@@ -152,7 +152,7 @@ sections:
         fontWeight: 400
   - posts:
       - content/pages/blog/microshades-featured-by-asm-journal.md
-    showThumbnail: false
+    showThumbnail: true
     showDate: true
     showAuthor: true
     variant: three-col-grid
