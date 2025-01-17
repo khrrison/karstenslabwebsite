@@ -44,7 +44,7 @@ sections:
     subtitle: We specialize in the following
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Microbiome Analysis
         tagline: ''
         subtitle: ''
         text: ''
