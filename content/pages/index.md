@@ -67,7 +67,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Microbiome Research
+        title: R
         tagline: ''
         subtitle: ''
         text: ''
