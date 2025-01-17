@@ -41,7 +41,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: WE SPECIALIZE IN THE FOLLOWING
+    subtitle: We specialize in the following
     items:
       - title: 20x
         subtitle: The Job Stuff
