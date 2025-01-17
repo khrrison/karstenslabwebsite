@@ -96,7 +96,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/generated-svg-image.svg
           altText: Placeholder text
           styles:
             self:
