@@ -4,8 +4,8 @@ title: microshades featured by ASM journal
 date: '2024-05-01'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  The microshades R publication has been included in the ASM Diversity, Equity,
+  and Inclusion article collection.
 featuredImage:
   type: ImageBlock
   url: /images/ASM-OG-Default.jpg
