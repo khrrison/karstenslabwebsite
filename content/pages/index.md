@@ -173,7 +173,7 @@ sections:
       type: TitleBlock
       text: Posts
       color: text-dark
-    subtitle: All things are difficult before they are easy
+    subtitle: Lab news and updates
   - title: Divider
     colors: bg-light-fg-dark
     styles:
