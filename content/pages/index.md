@@ -137,7 +137,7 @@ sections:
             flexDirection: col-reverse
     actions: []
     elementId: ''
-    variant: small-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
