@@ -73,7 +73,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/rsoftware.svg
+          url: /images/R_logo.svg.png
           altText: Placeholder text
           styles:
             self:
