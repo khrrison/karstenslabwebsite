@@ -1,0 +1,53 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Basicblock2",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "block"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Feature Item One",
+                "tagline": "",
+                "subtitle": "",
+                "text": "",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature1.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder text",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "row"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-basicblock2-be66.png"
+        }
+    ]
+}
