@@ -18,7 +18,7 @@ sections:
       niches, but also have projects involving the gut microbiome.
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/user-full-2.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
