@@ -8,7 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    /images/featured_hu6d097a554a6fe071e19d8e82e1241dcd_910733_680x500_fill_q90_lanczos_center_3.png
   altText: Thumbnail
   elementId: ''
   styles:
