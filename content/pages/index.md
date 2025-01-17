@@ -45,7 +45,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: Microbiome Research
         subtitle: ''
         text: ''
         image:
