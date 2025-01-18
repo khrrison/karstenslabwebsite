@@ -22,9 +22,20 @@
         },
         {
             "type": "Link",
-            "label": "Team",
+            "label": "Lab Members",
             "altText": "",
-            "url": "/Team",
+            "url": "/LabMembers",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/Publications",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
