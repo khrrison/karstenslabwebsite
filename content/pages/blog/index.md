@@ -62,5 +62,5 @@ postFeed:
   variant: big-list
   colors: bg-light-fg-dark
   hoverEffect: move-up
-isDraft: true
+isDraft: false
 ---
