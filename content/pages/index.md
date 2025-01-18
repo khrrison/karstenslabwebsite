@@ -33,6 +33,30 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - posts:
+      - content/pages/blog/microshades-featured-by-asm-journal.md
+      - content/pages/blog/karstens-lab-at-2023-augs-pfd.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: Posts
+      color: text-dark
+    subtitle: Lab news and updates
+    showExcerpt: true
   - type: FeaturedItemsSection
     title:
       text: Skills
@@ -150,28 +174,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-  - posts:
-      - content/pages/blog/microshades-featured-by-asm-journal.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: Posts
-      color: text-dark
-    subtitle: Lab news and updates
   - title: Divider
     colors: bg-light-fg-dark
     styles:
