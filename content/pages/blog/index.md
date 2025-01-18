@@ -1,31 +1,9 @@
 ---
-title: Posts
-slug: /posts
+title: 'Blog '
+slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
-topSections:
-  - title:
-      text: Featured Posts
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+topSections: []
 styles:
   title:
     textAlign: center
@@ -37,18 +15,7 @@ seo:
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
+bottomSections: []
 postFeed:
   type: PagedPostsSection
   title: null
@@ -60,7 +27,7 @@ postFeed:
   actions: []
   elementId: null
   variant: big-list
-  colors: bg-light-fg-dark
+  colors: bg-neutral-fg-dark
   hoverEffect: move-up
 isDraft: false
 ---
