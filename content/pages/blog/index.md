@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog - Lab Updates
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
