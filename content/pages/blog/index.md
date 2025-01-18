@@ -49,6 +49,6 @@ postFeed:
   actions: []
   elementId: null
   variant: big-list
-  colors: bg-light-fg-dark
+  colors: bg-neutral-fg-dark
   hoverEffect: move-up
 ---
