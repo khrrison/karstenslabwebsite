@@ -24,7 +24,7 @@
             "type": "Link",
             "label": "Lab Members",
             "altText": "",
-            "url": "/Lab Members",
+            "url": "/LabMembers",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
