@@ -22,7 +22,7 @@
         },
         {
             "type": "Link",
-            "label": "Lab Member",
+            "label": "Lab Members",
             "altText": "",
             "url": "/Lab Members",
             "showIcon": false,
