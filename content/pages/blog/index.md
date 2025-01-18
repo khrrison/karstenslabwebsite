@@ -37,7 +37,18 @@ seo:
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
-bottomSections: []
+bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 postFeed:
   type: PagedPostsSection
   title: null
