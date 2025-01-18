@@ -1,6 +1,6 @@
 ---
 title: Posts
-slug: /blog
+slug: /posts
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
@@ -62,4 +62,5 @@ postFeed:
   variant: big-list
   colors: bg-light-fg-dark
   hoverEffect: move-up
+isDraft: false
 ---
