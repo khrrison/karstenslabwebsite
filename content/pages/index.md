@@ -61,7 +61,7 @@ sections:
       - type: Button
         label: More posts
         altText: ''
-        url: /posts
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
