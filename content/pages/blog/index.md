@@ -1,16 +1,15 @@
 ---
-title: Blog
-slug: /blog
+title: Posts
+slug: /posts
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Featured Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    subtitle: ''
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
