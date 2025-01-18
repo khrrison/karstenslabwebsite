@@ -57,16 +57,7 @@ sections:
       color: text-dark
     subtitle: Lab news and updates
     showExcerpt: true
-    actions:
-      - type: Button
-        label: More posts
-        altText: ''
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
   - type: FeaturedItemsSection
     title:
       text: Skills
