@@ -193,8 +193,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/what-is-a-design-system.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
