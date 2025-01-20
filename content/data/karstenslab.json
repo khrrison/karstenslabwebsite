@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Karstens Lab",
-    "role": "",
+    "role": "Lab personnel",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
