@@ -188,7 +188,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Projects
       color: text-dark
       styles:
         self:
