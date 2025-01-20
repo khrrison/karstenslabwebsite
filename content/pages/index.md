@@ -267,6 +267,14 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     actions:
       - type: Button
         label: Get started
