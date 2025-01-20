@@ -2,40 +2,6 @@
 type: PageLayout
 title: Team
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Lab Members
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Meet the team
-    text: ''
-    actions: []
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
