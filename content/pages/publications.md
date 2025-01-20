@@ -70,8 +70,7 @@ sections:
           Interpretation
         tagline: ''
         subtitle: July 2022
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: "### Abstract\n\nAn approach for assessing the urinary microbiome is 16S rRNA gene sequencing, where analysis methods are rapidly evolving. This re-analysis of an existing dataset aimed to determine whether updated bioinformatic and statistical techniques affect clinical inferences.\n\nDOI:\_[10.3389/fcimb.2022.789439](https://doi.org/10.3389/fcimb.2022.789439)\n\n"
         image:
           type: ImageBlock
           url: >-
