@@ -59,6 +59,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Alumni
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
