@@ -197,7 +197,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Low Microbial Biomass Enviornments
+        subtitle: ''
         text: >
           Sequencing data that is used to study the microbiome is error prone,
           especially in samples originating from low microbial biomass
