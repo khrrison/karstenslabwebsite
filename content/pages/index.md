@@ -256,11 +256,6 @@ sections:
           Bacteria and other microbes exist the bladder in the absence of
           infection. How these bacteria relate to non-infectious bladder
           disorders is largely unknown.
-        image:
-          type: ImageBlock
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
