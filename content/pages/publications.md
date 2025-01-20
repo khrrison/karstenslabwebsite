@@ -17,7 +17,7 @@ sections:
           Urinary microbiome community types associated with urinary
           incontinence severity in women
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: October 2023
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
