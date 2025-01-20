@@ -8,7 +8,8 @@ excerpt: >-
   their studies in 2023.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    /images/featured_hud4b698c89ec63c198607b1f75a0c5cc1_4595431_680x500_fill_q90_lanczos_smart1_3.png
   altText: Thumbnail
   elementId: ''
   styles:
