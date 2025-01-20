@@ -269,7 +269,8 @@ sections:
             flexDirection: row
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: >-
+            /images/featured_hua5b891ce8ce2b9038b202d0ddacb9682_10964_680x500_fill_q90_lanczos_smart1.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
