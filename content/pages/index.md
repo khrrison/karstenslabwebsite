@@ -227,10 +227,9 @@ sections:
       - type: FeaturedItem
         title: Microshades
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          An R package for improving color accessibility and organization of
+          complex data. 
         image:
           type: ImageBlock
           url: /images/icon2.svg
