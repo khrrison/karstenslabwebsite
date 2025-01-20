@@ -98,10 +98,8 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+The Karstens lab members have continued to make progress towards wrapping up their studies in 2023. DMICE BCB Masters students Matt Hammer and Alex Rouhier both completed their master theses. Biomedical Engineering student Kate Bowie, PhD successfully defended her dissertation.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Matt Hammer’s thesis Evaluation of Tools for Functional Inference in the Pediatric Gut Microbiome evaluated how well functional prediction tools worked on the pediatric gut microbiome data. Alex Rouhier’s thesis “Evaluating microshade color palette accessibility for color vision deficiency” explored how well the microshades color palette improves accessibility for people with color blindness.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Kate’s dissertation “Investigating the Human Microbiome in Prostate Health and Disease: Examining Low-microbial Biomass Human Samples” explored how the microbiome could inform on prostate disease. She rigorously evaluated the blood microbiome as a potential biomarker for prostate cancer in addition to completing the largest male urobiome study to date. This work will set the stage for future studies.
