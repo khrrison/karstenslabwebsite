@@ -1,6 +1,6 @@
 ---
 title: Blog - Lab Updates
-slug: /blog
+slug: /blog-update
 numOfPostsPerPage: 8
 enableSearch: true
 topSections: []
