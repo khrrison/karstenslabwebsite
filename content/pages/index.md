@@ -251,7 +251,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Urinary Microbiome
-        subtitle: Faster
+        subtitle: ''
         text: >
           Bacteria and other microbes exist the bladder in the absence of
           infection. How these bacteria relate to non-infectious bladder
