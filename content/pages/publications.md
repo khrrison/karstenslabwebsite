@@ -27,7 +27,8 @@ sections:
           severity in a population of women with mixed urinary incontinence
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/featured_hua71471c34eaab7ac5a341dc617175231_1045648_680x500_fill_q90_lanczos_smart1_3.png
           altText: Placeholder image
           styles:
             self:
