@@ -147,7 +147,7 @@ sections:
         label: More publications
         altText: ''
         url: >-
-          /https://www.researchgate.net/scientific-contributions/Lisa-Karstens-2072647761
+          https://www.researchgate.net/scientific-contributions/Lisa-Karstens-2072647761
         showIcon: false
         icon: arrowRight
         iconPosition: right
