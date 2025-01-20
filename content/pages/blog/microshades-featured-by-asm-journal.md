@@ -2,7 +2,7 @@
 type: PostLayout
 title: microshades featured by ASM journal
 date: '2024-05-01'
-author: content/data/person1.json
+author: content/data/lab.json
 excerpt: >-
   The microshades R publication has been included in the ASM Diversity, Equity,
   and Inclusion article collection.
