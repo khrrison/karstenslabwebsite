@@ -16,7 +16,7 @@ sections:
         title: >-
           Urinary microbiome community types associated with urinary
           incontinence severity in women
-        tagline: ''
+        tagline: American Journal of Obstetrics & Gynecology
         subtitle: October 2023
         text: "### Abstract\n\nThis study aimed to test whether specific urinary or vaginal microbiome community types are associated with urinary incontinence severity in a population of women with mixed urinary incontinence\n\nDOI:\_[10.1016/j.ajog.2023.10.036](https://doi.org/10.1016/j.ajog.2023.10.036)\n"
         image:
