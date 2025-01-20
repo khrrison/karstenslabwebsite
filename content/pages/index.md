@@ -196,7 +196,7 @@ sections:
     subtitle: All things are difficult before they are easy
     items:
       - type: FeaturedItem
-        title: ''
+        title: Low Microbial Biomass Enviornments
         subtitle: ''
         text: >
           Sequencing data that is used to study the microbiome is error prone,
