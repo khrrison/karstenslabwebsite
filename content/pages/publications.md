@@ -114,7 +114,22 @@ sections:
           amplicon sequencing vs expanded quantitative urine culture
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          ### Abstract
+
+
+          Multiple techniques exist for characterizing the urinary microbiome.
+          Two commonly used methods include expanded quantitative urine culture
+          (EQUC) and 16S ribosomal RNA amplicon sequencing (16S sequencing).
+          Even with enhanced techniques, culture-based methods may still fail to
+          detect several organisms that are difficult to grow\.1,2 Sequencing
+          methods also have limitations, such as failure to identify organisms
+          with thick cell walls (eg, Gram-positive bacteria) owing to
+          inefficient cytolysis.3 Given that each method of investigating the
+          urobiome may present intrinsic biases toward detecting specific
+          organisms, we aimed to compare the results between EQUC and 16S
+          sequencing when both methods were performed on the same samples.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
