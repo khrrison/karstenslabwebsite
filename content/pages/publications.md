@@ -144,7 +144,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: More publications
         altText: ''
         url: >-
           /https://www.researchgate.net/scientific-contributions/Lisa-Karstens-2072647761
