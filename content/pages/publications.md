@@ -65,14 +65,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        title: >-
+          Updating Urinary Microbiome Analyses to Enhance Biologic
+          Interpretation
+        tagline: ''
+        subtitle: July 2022
+        text: "### Abstract\n\nAn approach for assessing the urinary microbiome is 16S rRNA gene sequencing, where analysis methods are rapidly evolving. This re-analysis of an existing dataset aimed to determine whether updated bioinformatic and statistical techniques affect clinical inferences.\n\nDOI:\_[10.3389/fcimb.2022.789439](https://doi.org/10.3389/fcimb.2022.789439)\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: >-
+            /images/featured_hu44cf4f2e58c2170e3132afdf5443e2f8_310559_680x500_fill_q90_lanczos_smart1_3.png
           altText: Placeholder image
           styles:
             self:
