@@ -6,7 +6,8 @@ author: content/data/karstenslab.json
 excerpt: 'Welcome summer 2022 interns! '
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    /images/featured_hu6576f0077a116a4b0c3f49590aeb5203_740391_680x500_fill_q90_lanczos_center.jpg
   altText: Thumbnail
   elementId: ''
   styles:
