@@ -185,6 +185,127 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Projects
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: All things are difficult before they are easy
+    items:
+      - type: FeaturedItem
+        title: Low Microbial Biomass Enviornments
+        subtitle: ''
+        text: >
+          Sequencing data that is used to study the microbiome is error prone,
+          especially in samples originating from low microbial biomass
+          environments.
+        image:
+          type: ImageBlock
+          url: >-
+            /images/featured_hu328730d3d81b0f94c3c9c34ef2462253_99968_680x500_fill_q90_lanczos_smart1.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Microshades
+        subtitle: ''
+        text: >
+          An R package for improving color accessibility and organization of
+          complex data. 
+        image:
+          type: ImageBlock
+          url: >-
+            /images/featured_huedd9dfebf0fe41e7bd9b508ee542a504_262054_680x500_fill_q90_lanczos_center.jpg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Urinary Microbiome
+        subtitle: ''
+        text: >
+          Bacteria and other microbes exist the bladder in the absence of
+          infection. How these bacteria relate to non-infectious bladder
+          disorders is largely unknown.
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        image:
+          type: ImageBlock
+          url: >-
+            /images/featured_hua5b891ce8ce2b9038b202d0ddacb9682_10964_680x500_fill_q90_lanczos_smart1.jpg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: big-list
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
