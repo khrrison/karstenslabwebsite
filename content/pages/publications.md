@@ -68,7 +68,7 @@ sections:
         title: >-
           Updating Urinary Microbiome Analyses to Enhance Biologic
           Interpretation
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
