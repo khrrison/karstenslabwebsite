@@ -287,7 +287,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: Get started
+        label: More posts
         altText: ''
         url: /blog
         showIcon: false
