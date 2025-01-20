@@ -30,6 +30,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Meet the team
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
