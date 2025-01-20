@@ -198,10 +198,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Low Microbial Biomass Enviornments
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sequencing data that is used to study the microbiome is error prone,
+          especially in samples originating from low microbial biomass
+          environments.
         image:
           type: ImageBlock
           url: /images/icon1.svg
