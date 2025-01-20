@@ -37,7 +37,6 @@ sections:
           textAlign: center
     people:
       - content/data/person3.json
-      - content/data/person4.json
       - content/data/person6.json
     actions: []
     variant: three-col-grid
