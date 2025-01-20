@@ -39,7 +39,9 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: >-
+          microshades: An R Package for Improving Color Accessibility and
+          Organization of Microbiome Data
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
