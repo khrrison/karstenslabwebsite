@@ -69,7 +69,7 @@ sections:
           Updating Urinary Microbiome Analyses to Enhance Biologic
           Interpretation
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: July 2022
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
