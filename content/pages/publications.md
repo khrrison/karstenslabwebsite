@@ -43,7 +43,7 @@ sections:
           microshades: An R Package for Improving Color Accessibility and
           Organization of Microbiome Data
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: October 2022
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
