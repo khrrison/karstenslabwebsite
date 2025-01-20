@@ -42,7 +42,7 @@ sections:
         title: >-
           microshades: An R Package for Improving Color Accessibility and
           Organization of Microbiome Data
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
