@@ -42,6 +42,8 @@ styles:
   self:
     flexDirection: row
 ---
+![](/images/featured_hu6576f0077a116a4b0c3f49590aeb5203_740391_680x500_fill_q90_lanczos_center.jpg)
+
 Welcome summer 2022 interns! The Karstens lab is excited to host two undergraduates as part of the [Undergraduate Biomedical Informatics and Data Science Internship Program](https://www.ohsu.edu/school-of-medicine/medical-informatics-and-clinical-epidemiology/high-school-and-college).
 
 Elizabeth Riutta (left in photo) is a DMICE 2022 intern for the Karstens lab. Elizabeth is currently a senior at Oregon State University where she will be finishing a degree in mathematics. After graduation Elizabeth hopes to pursue a career in bioinformatics or more broader sense data science.
