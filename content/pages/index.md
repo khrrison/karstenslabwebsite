@@ -204,7 +204,8 @@ sections:
           environments.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: >-
+            /images/featured_hu328730d3d81b0f94c3c9c34ef2462253_99968_680x500_fill_q90_lanczos_smart1.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
