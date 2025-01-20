@@ -3,9 +3,7 @@ type: PostLayout
 title: Welcome 2022 Interns!
 date: '2022-06-24'
 author: content/data/karstenslab.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 'Welcome summer 2022 interns! '
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
