@@ -108,6 +108,14 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
       - type: FeaturedItem
         title: >-
           Concordance of urinary microbiota detected by 16S ribosomal RNA
