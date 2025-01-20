@@ -90,8 +90,26 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - type: FeaturedItem
+        title: >-
+          The Impact of Local Estrogen on the Urogenital Microbiome in
+          Genitourinary Syndrome of Menopause: A Randomized-Controlled Trial
+        tagline: ''
+        subtitle: June 2022
+        text: "### Abstract\n\nThe aims of this study were to characterize the effect of vaginal estrogen on the vaginal and urinary bladder microbiome in postmenopausal women and describe any clinical associations with the symptoms of genitourinary syndrome of menopause.\n\nDOI:\_[10.1097/SPV.0000000000001170](https://doi.org/10.1097/spv.0000000000001170)\n\n"
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
