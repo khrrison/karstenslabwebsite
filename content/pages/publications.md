@@ -113,7 +113,7 @@ sections:
           Concordance of urinary microbiota detected by 16S ribosomal RNA
           amplicon sequencing vs expanded quantitative urine culture
         tagline: American Journal of Obstetrics & Gynecology
-        subtitle: ''
+        subtitle: June 2022
         text: >+
           ### Abstract
 
