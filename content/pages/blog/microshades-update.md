@@ -6,16 +6,12 @@ author: content/data/karstenslab.json
 excerpt: microshades
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/hero2.svg
+  altText: Image alt text placeholder
   elementId: ''
   styles:
     self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
+      borderRadius: medium
 bottomSections:
   - type: DividerSection
     title: Divider
