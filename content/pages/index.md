@@ -232,7 +232,8 @@ sections:
           complex data. 
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: >-
+            /images/featured_huedd9dfebf0fe41e7bd9b508ee542a504_262054_680x500_fill_q90_lanczos_center.jpg
           altText: Featured icon two
           elementId: ''
         actions: []
