@@ -42,7 +42,7 @@ sections:
         title: >-
           microshades: An R Package for Improving Color Accessibility and
           Organization of Microbiome Data
-        tagline: ''
+        tagline: Microbiology Resource Announcements
         subtitle: October 2022
         text: "### Abstract\n\nWhen creating figures, it is important to consider that individuals with color vision deficiency (CVD) may not perceive all colors. While there are several CVD-friendly color palettes, they are often insufficient for working with microbiome data. Here, we introduce microshades, an R package for creating CVD-accessible microbiome figures.\n\nDOI:\_[10.1128/mra.00795-22](https://doi.org/10.1128/mra.00795-22)\n\n"
         image:
