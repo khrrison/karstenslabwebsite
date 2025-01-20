@@ -18,8 +18,13 @@ sections:
           incontinence severity in women
         tagline: This is the tagline
         subtitle: October 2023
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          ### Abstract
+
+
+          This study aimed to test whether specific urinary or vaginal
+          microbiome community types are associated with urinary incontinence
+          severity in a population of women with mixed urinary incontinence
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
