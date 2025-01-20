@@ -4,8 +4,8 @@ title: Congratulations to the 2023 Karstens lab graduates
 date: '2023-06-06'
 author: content/data/karstenslab.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  The Karstens lab members have continued to make progress towards wrapping up
+  their studies in 2023.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
