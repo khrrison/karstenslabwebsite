@@ -91,7 +91,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: toggle-list
+    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:
