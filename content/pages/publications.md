@@ -47,7 +47,8 @@ sections:
         text: "### Abstract\n\nWhen creating figures, it is important to consider that individuals with color vision deficiency (CVD) may not perceive all colors. While there are several CVD-friendly color palettes, they are often insufficient for working with microbiome data. Here, we introduce microshades, an R package for creating CVD-accessible microbiome figures.\n\nDOI:\_[10.1128/mra.00795-22](https://doi.org/10.1128/mra.00795-22)\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: >-
+            /images/featured_hu8486161e4040630e063a80e8fe5cb096_173880_680x500_fill_q90_lanczos_smart1_3.png
           altText: Placeholder image
           styles:
             self:
