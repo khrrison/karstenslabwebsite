@@ -8,7 +8,8 @@ excerpt: >-
   their studies in 2023.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    /images/featured_hud4b698c89ec63c198607b1f75a0c5cc1_4595431_680x500_fill_q90_lanczos_smart1_3.png
   altText: Thumbnail
   elementId: ''
   styles:
@@ -30,60 +31,6 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: How can we help?
-      color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
 slug: 2023-graduates
 isFeatured: false
 isDraft: false
