@@ -193,7 +193,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: All things are difficult before they are easy
     items:
       - type: FeaturedItem
         title: 500k
