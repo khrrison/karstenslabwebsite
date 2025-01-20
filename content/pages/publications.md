@@ -95,7 +95,7 @@ sections:
           The Impact of Local Estrogen on the Urogenital Microbiome in
           Genitourinary Syndrome of Menopause: A Randomized-Controlled Trial
         tagline: ''
-        subtitle: ''
+        subtitle: June 2022
         text: ''
         image:
           type: ImageBlock
