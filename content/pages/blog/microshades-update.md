@@ -3,7 +3,9 @@ type: PostLayout
 title: microshades featured by ASM journal
 date: '2024-05-01'
 author: content/data/karstenslab.json
-excerpt: microshades
+excerpt: >-
+  The microshades R publication has been included in the ASM Diversity, Equity,
+  and Inclusion article collection.
 featuredImage:
   type: ImageBlock
   url: /images/ASM-OG-Default.jpg
