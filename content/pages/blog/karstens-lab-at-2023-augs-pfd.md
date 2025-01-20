@@ -2,7 +2,7 @@
 type: PostLayout
 title: Karstens lab at 2023 AUGS PFD Week
 date: '2023-10-04'
-author: content/data/person1.json
+author: content/data/lab.json
 excerpt: >-
   At the 2023 American Urogynecologic Society (AUGS) Pelvic Floor Disorders
   Week, the Karstens lab presented recent work on the urinary microbiome.
