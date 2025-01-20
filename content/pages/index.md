@@ -338,7 +338,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: More publications
         altText: ''
         url: /publications
         showIcon: false
