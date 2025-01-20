@@ -142,7 +142,17 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          /https://www.researchgate.net/scientific-contributions/Lisa-Karstens-2072647761
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
