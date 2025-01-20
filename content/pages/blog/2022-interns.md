@@ -98,10 +98,8 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Welcome summer 2022 interns! The Karstens lab is excited to host two undergraduates as part of the [Undergraduate Biomedical Informatics and Data Science Internship Program](https://www.ohsu.edu/school-of-medicine/medical-informatics-and-clinical-epidemiology/high-school-and-college).
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Elizabeth Riutta (left in photo) is a DMICE 2022 intern for the Karstens lab. Elizabeth is currently a senior at Oregon State University where she will be finishing a degree in mathematics. After graduation Elizabeth hopes to pursue a career in bioinformatics or more broader sense data science.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Anagha (right in photo) is an undergraduate at the University of Illinois at Urbana-Champaign pursuing a major in Computer Science with minors in Integrative Biology and Informatics. She is passionate about bioinformatics research, and as part of the Karstens Lab, she is looking forward to studying the human microbiome and the sequencing methods used in its analysis. Outside of academics, Anagha enjoys sketching, swimming, and finding new hiking trails to explore.
