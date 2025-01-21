@@ -37,7 +37,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: Principle Investigator
         subtitle: This is the item subtitle
         text: ''
         image:
