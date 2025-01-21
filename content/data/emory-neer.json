@@ -31,5 +31,6 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    }
+    },
+    "bio": "<a href=\"https\\\\://karstenslab.github.io/lab\\\\\\_members/emory/\"> Bio</a>\n\n"
 }
