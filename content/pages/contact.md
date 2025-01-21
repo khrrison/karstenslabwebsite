@@ -8,9 +8,8 @@ sections:
       text: Contact
       color: text-dark
     subtitle: 'OHSU, Portland, OR 97239, USA'
-    text: |+
-      ### ![](/images/campusmap.jpg)
-
+    text: |
+      ![](/images/campusmap.jpg)
     actions: []
     media:
       type: FormBlock
