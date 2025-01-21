@@ -28,6 +28,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Meet the team
 slug: team
 isDraft: false
 seo:
