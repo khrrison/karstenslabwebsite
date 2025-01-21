@@ -2,46 +2,6 @@
 type: PageLayout
 title: Team
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: A team that works closely together
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Section subtitle
-    text: ''
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
