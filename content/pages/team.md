@@ -55,7 +55,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         colors: bg-light-fg-dark
         styles:
