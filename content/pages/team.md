@@ -49,7 +49,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Bio
             altText: ''
             url: 'https://karstenslab.github.io/lab_members/lisa/'
             showIcon: false
