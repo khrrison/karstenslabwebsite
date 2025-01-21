@@ -16,6 +16,7 @@ sections:
       - content/data/jeanphilippegourdine.json
       - content/data/anagha-shenoy.json
       - content/data/christina-turner.json
+      - content/data/erin-dahl.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
