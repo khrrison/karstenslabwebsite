@@ -12,6 +12,7 @@ sections:
           textAlign: center
     people:
       - content/data/lisakarstens.json
+      - content/data/keishaharrison.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
