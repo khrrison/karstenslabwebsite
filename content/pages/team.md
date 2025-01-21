@@ -19,6 +19,7 @@ sections:
       - content/data/erin-dahl.json
       - content/data/katie-bowie.json
       - content/data/alec-barstad.json
+      - content/data/emory-neer.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
