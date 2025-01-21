@@ -39,7 +39,8 @@ sections:
         title: ''
         tagline: Principle Investigator
         subtitle: This is the item subtitle
-        text: ''
+        text: >
+          ![](/images/featured_hu57792652a279db3a8a889cf73a6f1dc5_1941034_680x500_fill_q90_lanczos_smart1_3.png)
         image:
           type: ImageBlock
           altText: Background alt text
