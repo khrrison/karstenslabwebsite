@@ -20,6 +20,7 @@ sections:
       - content/data/katie-bowie.json
       - content/data/alec-barstad.json
       - content/data/emory-neer.json
+      - content/data/justine-nguyen.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
