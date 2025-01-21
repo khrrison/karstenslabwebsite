@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Lab Members
       color: text-dark
       styles:
         self:
@@ -15,6 +15,7 @@ sections:
       - content/data/keishaharrison.json
       - content/data/jeanphilippegourdine.json
       - content/data/anagha-shenoy.json
+      - content/data/christina-turner.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
@@ -28,6 +29,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Meet the team
 slug: team
 isDraft: false
 seo:
