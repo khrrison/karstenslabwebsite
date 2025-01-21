@@ -16,7 +16,7 @@
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer",
     "title": "Lisa Karstens"
 }
