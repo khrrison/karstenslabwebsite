@@ -296,7 +296,7 @@ sections:
         style: secondary
         elementId: ''
     elementId: ''
-    variant: three-col-grid
+    variant: small-list
     colors: bg-light-fg-dark
     hoverEffect: shadow-plus-move-up
     styles:
