@@ -24,7 +24,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "SContact",
             "altText": "",
             "url": "/contact",
             "showIcon": false,
