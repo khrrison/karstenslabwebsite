@@ -1,11 +1,10 @@
 {
     "type": "Person",
-    "name": "Anagha Shenoy",
-    "role": "Student Data Analyst",
-    "bio": "<a href=\"https://karstenslab.github.io/lab_members/anagha/\"> Bio</a>\n\n",
+    "name": "Emory Neer",
+    "role": "EXITO-Alumni",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/featured_hu3716fda26f1571f6baa689cfd1f1b4f0_316755_550x0_resize_q90_lanczos_3.png",
+        "url": "/images/featured_hu4d0a3816f924fe83721362685ebbd0ae_307861_550x0_resize_q90_lanczos_3.png",
         "altText": "First Last",
         "styles": {
             "self": {
@@ -32,5 +31,6 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    }
+    },
+    "bio": "<a href=\"https\\\\://karstenslab.github.io/lab\\\\\\_members/emory/\"> Bio</a>\n\n"
 }
