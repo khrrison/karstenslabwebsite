@@ -3,9 +3,12 @@ type: PageLayout
 title: Team
 sections: []
 slug: team
+isDraft: false
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: Landing Page
+  metaDescription: Write here your new page's description including most relevant keywords.
+  addTitleSuffix: true
+  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
