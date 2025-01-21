@@ -24,7 +24,7 @@
         },
         {
             "type": "Link",
-            "label": "SContact",
+            "label": "Contact",
             "altText": "",
             "url": "/contact",
             "showIcon": false,
