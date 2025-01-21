@@ -16,6 +16,7 @@
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
-    "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "colors": "bg-light-fg-dark",
+    "type": "Footer",
+    "title": ""
 }
