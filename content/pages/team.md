@@ -18,6 +18,7 @@ sections:
       - content/data/christina-turner.json
       - content/data/erin-dahl.json
       - content/data/katie-bowie.json
+      - content/data/alec-barstad.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
