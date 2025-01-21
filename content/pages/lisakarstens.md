@@ -2,7 +2,7 @@
 type: PageLayout
 title: This is a new page
 sections: []
-slug: team/lisakarstens
+slug: lisakarstens
 isDraft: false
 seo:
   type: Seo
