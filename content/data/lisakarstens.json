@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Lisa Karstens",
     "role": "Principle Investigator",
-    "bio": "Bio\n",
+    "bio": "```\n```\n\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
