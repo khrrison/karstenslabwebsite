@@ -16,7 +16,7 @@ sections:
       - content/data/jeanphilippegourdine.json
       - content/data/anagha-shenoy.json
     actions: []
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
