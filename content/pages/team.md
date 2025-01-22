@@ -38,7 +38,7 @@ sections:
   - type: FeaturedPeopleSection
     people:
       - content/data/katie-bowie.json
-      - content/data/person2.json
+      - content/data/justine-nguyen.json
       - content/data/person3.json
       - content/data/person4.json
       - content/data/person5.json
