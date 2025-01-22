@@ -2,7 +2,7 @@
 type: PageLayout
 title: Lisa Karstens
 sections: []
-slug: lisakarstens
+slug: team/lisakarstens
 isDraft: false
 seo:
   type: Seo
