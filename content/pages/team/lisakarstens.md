@@ -42,14 +42,7 @@ sections:
       mentor for summer research experiences. She teaches an introductory
       programming course in Python, as well as guest lectures on bioinformatic
       approaches and algorithms for studying the human microbiome.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
