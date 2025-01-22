@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Keisha Harrison
-      color: text-neutral
+      color: text-dark
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
