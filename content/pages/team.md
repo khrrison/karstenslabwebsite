@@ -13,14 +13,7 @@ sections:
     people:
       - content/data/lisakarstens.json
       - content/data/keishaharrison.json
-      - content/data/jeanphilippegourdine.json
-      - content/data/anagha-shenoy.json
       - content/data/christina-turner.json
-      - content/data/erin-dahl.json
-      - content/data/katie-bowie.json
-      - content/data/alec-barstad.json
-      - content/data/emory-neer.json
-      - content/data/justine-nguyen.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
@@ -34,7 +27,30 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: Meet the team
+    subtitle: Current
+  - type: FeaturedPeopleSection
+    people:
+      - content/data/katie-bowie.json
+      - content/data/justine-nguyen.json
+      - content/data/jeanphilippegourdine.json
+      - content/data/erin-dahl.json
+      - content/data/emory-neer.json
+      - content/data/anagha-shenoy.json
+      - content/data/alec-barstad.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    subtitle: Alumni
 slug: team
 isDraft: false
 seo:
