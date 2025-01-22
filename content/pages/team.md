@@ -34,7 +34,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: Meet the team
+    subtitle: Current
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
