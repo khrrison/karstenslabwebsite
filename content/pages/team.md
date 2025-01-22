@@ -13,7 +13,6 @@ sections:
     people:
       - content/data/lisakarstens.json
       - content/data/keishaharrison.json
-      - content/data/jeanphilippegourdine.json
       - content/data/anagha-shenoy.json
       - content/data/christina-turner.json
       - content/data/erin-dahl.json
