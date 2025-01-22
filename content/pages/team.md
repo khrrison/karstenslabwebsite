@@ -43,6 +43,7 @@ sections:
       - content/data/erin-dahl.json
       - content/data/emory-neer.json
       - content/data/anagha-shenoy.json
+      - content/data/alec-barstad.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
