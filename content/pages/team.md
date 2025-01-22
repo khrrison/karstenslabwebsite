@@ -39,7 +39,7 @@ sections:
     people:
       - content/data/katie-bowie.json
       - content/data/justine-nguyen.json
-      - content/data/person3.json
+      - content/data/jeanphilippegourdine.json
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
