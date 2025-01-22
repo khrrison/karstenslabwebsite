@@ -13,7 +13,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/keisha.jpg
       altText: Dope design preview
     badge:
       type: Badge
