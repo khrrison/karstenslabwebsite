@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Keisha Harrison
       color: text-dark
     subtitle: Be in good company
     text: >
