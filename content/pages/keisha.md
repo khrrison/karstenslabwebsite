@@ -24,7 +24,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-slug: team/keisha
+slug: keisha
 isDraft: false
 seo:
   type: Seo
