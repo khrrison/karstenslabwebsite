@@ -62,7 +62,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Principle investigator
       color: text-primary
     colors: bg-light-fg-dark
     styles:
