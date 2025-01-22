@@ -36,13 +36,6 @@ sections:
         textAlign: center
     subtitle: Current
   - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     people:
       - content/data/person1.json
       - content/data/person2.json
