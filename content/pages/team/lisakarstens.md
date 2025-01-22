@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Lisa Karstens
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       Lisa Karstens, PhD is an Assistant Professor at Oregon Health & Science
       University in the Department of Medical Informatics and Clinical
