@@ -14,7 +14,6 @@ sections:
       - content/data/lisakarstens.json
       - content/data/keishaharrison.json
       - content/data/christina-turner.json
-      - content/data/katie-bowie.json
       - content/data/alec-barstad.json
       - content/data/emory-neer.json
       - content/data/justine-nguyen.json
