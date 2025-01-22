@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Keisha Harrison
 sections: []
 slug: team/keisha
 isDraft: false
