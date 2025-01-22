@@ -43,10 +43,6 @@ sections:
       programming course in Python, as well as guest lectures on bioinformatic
       approaches and algorithms for studying the human microbiome.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
     badge:
       type: Badge
       label: Principle investigator
