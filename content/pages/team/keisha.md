@@ -8,9 +8,8 @@ sections:
       text: Keisha Harrison
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Bio
     actions:
       - type: Button
         label: Get started
