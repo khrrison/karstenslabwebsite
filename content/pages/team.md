@@ -63,6 +63,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Alumni
 slug: team
 isDraft: false
 seo:
