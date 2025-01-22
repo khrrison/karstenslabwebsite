@@ -43,12 +43,6 @@ sections:
       programming course in Python, as well as guest lectures on bioinformatic
       approaches and algorithms for studying the human microbiome.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
