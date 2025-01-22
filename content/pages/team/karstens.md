@@ -60,7 +60,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-slug: team/lisakarstens
+slug: team/karstens
 isDraft: false
 seo:
   type: Seo
