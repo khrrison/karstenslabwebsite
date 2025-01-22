@@ -42,7 +42,7 @@ sections:
       - content/data/jeanphilippegourdine.json
       - content/data/erin-dahl.json
       - content/data/emory-neer.json
-      - content/data/person6.json
+      - content/data/anagha-shenoy.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
