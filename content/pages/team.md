@@ -37,7 +37,7 @@ sections:
     subtitle: Current
   - type: FeaturedPeopleSection
     people:
-      - content/data/person1.json
+      - content/data/katie-bowie.json
       - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
