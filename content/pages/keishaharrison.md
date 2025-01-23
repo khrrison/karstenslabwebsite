@@ -61,7 +61,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-slug: keisha
+slug: keisha-harrison
 isDraft: false
 seo:
   type: Seo
