@@ -4,8 +4,7 @@ title: Update
 date: '2025-01-01'
 author: content/data/karstenslab.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Update
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
@@ -44,4 +43,4 @@ styles:
   self:
     flexDirection: row
 ---
-Update
+Update. This is an update.
