@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Lisa Karstens
+title: Lisa 
 sections:
   - type: GenericSection
     title:
